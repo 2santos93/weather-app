@@ -2,7 +2,6 @@ const { test } = require("tap");
 const build = require("../config/server");
 
 const app = build();
-// process.env.OPEN_WEATHER_API_KEY = '7505668477b9b20ec1726d4c75968198';
 
 // TODO: The requests can be mock for better performance
 test("should return isHigher", async (t) => {
