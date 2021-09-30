@@ -14,4 +14,5 @@ query: city
 method: GET
 
 #Response
+
 ```{isHigher: bool}```
