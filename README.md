@@ -10,7 +10,9 @@ This is a test interview
 # Request
 
 url: /weather
+
 query: city
+
 method: GET
 
 # Response
