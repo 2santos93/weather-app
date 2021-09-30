@@ -9,9 +9,9 @@ This is a test interview
 
 # Request
 
-```url: /weather
+url: /weather
 query: city
-method: GET```
+method: GET
 
 #Response
 ```{isHigher: bool}```
