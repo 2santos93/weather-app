@@ -1,3 +1,4 @@
+require('dotenv').config()
 const server = require("./config/server")({
   logger: {
     level: "info",
