@@ -7,7 +7,6 @@ const getWeatherTemp = async (city) => {
     baseURL: "https://api.openweathermap.org/data/2.5",
     params: {
       appid: process.env.OPEN_WEATHER_API_KEY,
-      // appid: '7505668477b9b20ec1726d4c75968198',
       units: "metric",
     },
   });
