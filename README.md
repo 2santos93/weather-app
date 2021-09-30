@@ -7,10 +7,11 @@ This is a test interview
 
 ```npm run test``` run the tests
 
-url: /weather
+# Request
 
+```url: /weather
 query: city
+method: GET```
 
-method: GET
-
-response: {isHigher: bool}
+#Response
+```{isHigher: bool}```
