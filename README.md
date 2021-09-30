@@ -13,6 +13,6 @@ url: /weather
 query: city
 method: GET
 
-#Response
+# Response
 
 ```{isHigher: bool}```
