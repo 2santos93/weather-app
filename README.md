@@ -6,3 +6,7 @@ This is a test interview
 ```npm run start:dev``` run the app
 
 ```npm run test``` run the tests
+
+url: /weather
+query: city
+method: GET
